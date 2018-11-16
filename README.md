@@ -6,7 +6,7 @@ Its long-term goal is to provide widely used technology that leverages the value
 
 CaPTk is developed and maintained by the <a href="https://www.cbica.upenn.edu/">Center for Biomedical Image Computing and Analytics (CBICA)</a> at the University of Pennsylvania.
 
-For more details, please visit us at https://www.med.upenn.edu/cbica/captk
+For more details, please visit us at https://www.cbica.upenn.edu/captk
 
 For project documentation and how-to guides, please visit http://captk.projects.nitrc.org/
 
