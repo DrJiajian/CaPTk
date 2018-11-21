@@ -6,7 +6,7 @@ Its long-term goal is to provide widely used technology that leverages the value
 
 CaPTk is developed and maintained by the <a href="https://www.cbica.upenn.edu/">Center for Biomedical Image Computing and Analytics (CBICA)</a> at the University of Pennsylvania.
 
-For more details, please visit us at https://www.med.upenn.edu/cbica/captk
+For more details, please visit us at https://www.cbica.upenn.edu/captk
 
 For project documentation and how-to guides, please visit http://captk.projects.nitrc.org/
 
@@ -17,6 +17,12 @@ This work is in part supported by the grant U24-CA189523, awarded by the Nationa
 - The software has been designed for research purposes only and has neither been reviewed nor approved for clinical use by the Food and Drug Administration (FDA) or by any other federal/state agency.
 - This code (excluding dependent libraries) is governed by the license provided in http://www.med.upenn.edu/sbia/software-agreement.html unless otherwise specified.
 - The minimum recommended resolution is 1024x768. We have seen some visualization issues with high DPI (>2K) screens and bug reports related to it will be appreciated.
+
+## Download Latest Release (1.6.0)
+
+- Windows: https://www.nitrc.org/frs/downloadlink.php/10911
+- Linux: https://www.nitrc.org/frs/downloadlink.php/11012
+- macOS: https://www.nitrc.org/frs/downloadlink.php/11037
 
 ## Contact
 For more information, please contact <a href="mailto:software@cbica.upenn.edu">CBICA Software</a> .
